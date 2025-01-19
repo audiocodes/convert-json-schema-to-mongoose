@@ -1,4 +1,4 @@
-name: Add native binaries to release
+name: Publish package
 
 on:
   push:
