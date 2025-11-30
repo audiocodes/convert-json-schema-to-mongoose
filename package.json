@@ -32,14 +32,14 @@
   ],
   "dependencies": {
     "lodash": "^4.17.21",
-    "mongoose": "^8.9.5"
+    "mongoose": "^9.0.0"
   },
   "devDependencies": {
-    "@tsconfig/node20": "^20.1.4",
-    "@types/jasmine": "^5.1.5",
-    "@types/lodash": "^4.17.14",
-    "@types/node": "^22.10.7",
-    "jasmine": "^5.5.0",
-    "typescript": "^5.7.3"
+    "@tsconfig/node22": "^22.0.5",
+    "@types/jasmine": "^5.1.13",
+    "@types/lodash": "^4.17.21",
+    "@types/node": "^24.10.1",
+    "jasmine": "^5.12.0",
+    "typescript": "^5.9.3"
   }
 }
