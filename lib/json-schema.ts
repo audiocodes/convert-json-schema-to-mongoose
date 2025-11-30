@@ -1,5 +1,5 @@
-﻿import * as _ from 'lodash';
-import * as mongoose from 'mongoose';
+﻿import _ from 'lodash';
+import mongoose from 'mongoose';
 
 const typeStringToMongooseType = {'string': String, 'boolean': Boolean, 'number': Number, 'integer': Number};
 

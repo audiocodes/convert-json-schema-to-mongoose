@@ -1,7 +1,7 @@
 ﻿import { describe, it, expect } from 'vitest';
-import * as _ from 'lodash';
-import * as mongoose from 'mongoose';
-import createMongooseSchema from '../lib/json-schema';
+import _ from 'lodash';
+import mongoose from 'mongoose';
+import createMongooseSchema from '../lib/json-schema.js';
 
 describe('mongoose schema conversion:', () => {
   describe('createMongooseSchema', () => {

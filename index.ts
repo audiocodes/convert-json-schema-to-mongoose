@@ -1,3 +1,3 @@
-﻿import createMongooseSchema from './lib/json-schema';
+﻿import createMongooseSchema from './lib/json-schema.js';
 
 export {createMongooseSchema};

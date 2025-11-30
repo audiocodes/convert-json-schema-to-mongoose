@@ -1,6 +1,6 @@
 {
   "name": "@audc/convert-json-schema-to-mongoose",
-  "version": "0.3.6",
+  "version": "1.0.0",
   "description": "A library for converting JSON schema to mongoose 5 schema",
   "keywords": [
     "json",
@@ -9,6 +9,7 @@
     "mongo",
     "mongoose"
   ],
+  "type": "module",
   "homepage": "https://github.com/kristianmandrup/convert-json-schema-to-mongoose",
   "repository": {
     "url": "https://github.com/kristianmandrup/convert-json-schema-to-mongoose",
