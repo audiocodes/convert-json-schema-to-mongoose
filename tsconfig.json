@@ -2,11 +2,8 @@
   "extends": "@tsconfig/node22/tsconfig.json",
   "compilerOptions": {
     "declaration": true,
-    "esModuleInterop": false,
     "outDir": "./dist",
-    "skipLibCheck": true,
-    "sourceMap": true,
-    "strict": true
+    "sourceMap": true
   },
   "include": ["lib/**/*.ts", "test/**/*.ts", "*.ts"],
   "exclude": ["node_modules", "dist"]
