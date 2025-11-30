@@ -1,6 +1,6 @@
 {
   "name": "@audc/convert-json-schema-to-mongoose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library for converting JSON schema to mongoose 5 schema",
   "keywords": [
     "json",
