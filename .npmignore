@@ -3,3 +3,4 @@ test
 *.map
 *.ts
 !*.d.ts
+vitest.config.js
