@@ -1,11 +1,11 @@
-# JSON Schema to Mongoose Schema
+# JSON Schema to Mongoose Schema [![NPM version](https://badge.fury.io/js/@audc%2Fconvert-json-schema-to-mongoose.svg)](http://badge.fury.io/js/@audc%2Fconvert-json-schema-to-mongoose)
 
 A translation library between [JSON Schema](http://json-schema.org/) and
 [Mongoose Schema](http://mongoosejs.com/docs/guide.html). Written in TypeScript.
 
-This project was created from the ashes of `json-schema-converter`. I took away
-some features and made it more single purpose and added features to the
-conversion.
+This project is based on the work of Kristian Mandrup: [github](https://github.com/kristianmandrup/convert-json-schema-to-mongoose), [npm](https://www.npmjs.com/package/convert-json-schema-to-mongoose).
+
+All the dependencies were updated, and the package is ESM.
 
 ## Alternatives
 
@@ -20,7 +20,7 @@ Some of the alternatives...
 
 ## Installation
 
-`npm i convert-json-schema-to-mongoose -S`
+`npm i @audc/convert-json-schema-to-mongoose -S`
 
 ## Usage
 

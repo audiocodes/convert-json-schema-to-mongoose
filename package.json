@@ -10,13 +10,13 @@
     "mongoose"
   ],
   "type": "module",
-  "homepage": "https://github.com/kristianmandrup/convert-json-schema-to-mongoose",
+  "homepage": "https://github.com/audiocodes/convert-json-schema-to-mongoose",
   "repository": {
-    "url": "https://github.com/kristianmandrup/convert-json-schema-to-mongoose",
+    "url": "https://github.com/audiocodes/convert-json-schema-to-mongoose",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/kristianmandrup/convert-json-schema-to-mongoose/issues"
+    "url": "https://github.com/audiocodes/convert-json-schema-to-mongoose/issues"
   },
   "private": false,
   "license": "MIT",
